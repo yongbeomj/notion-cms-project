@@ -1,0 +1,4 @@
+mkdir -p /Users/jyb/workspace/courses/notion-cms-project/docs - docs 디렉토리 생성
+ls -la /Users/jyb/workspace/courses/notion-cms-project/ - 프로젝트 디렉토리 내용 확인
+git init - Git 저장소 초기화
+git add . && git status - 모든 파일 스테이징 및 상태 확인
